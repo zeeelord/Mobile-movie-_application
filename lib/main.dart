@@ -3,7 +3,7 @@ import 'ui/Home.dart';
 import 'ui/quote.dart';
 
 void main()=>runApp(MaterialApp(
-  home:BillSplitter()
+  home:MovieListView()
 ));
 // final ThemeData _appTheme = _buildAppTheme();
 //
